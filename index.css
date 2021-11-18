@@ -1,0 +1,17 @@
+.event-log {
+  display: flex;
+}
+
+.controls {
+  margin-bottom: 24px;
+}
+
+.event-log-contents {
+  flex: 1;
+}
+
+.banner-img {
+  display: block;
+  margin: 0 auto;
+}
+
